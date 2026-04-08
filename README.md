@@ -1,5 +1,7 @@
 # MA Visualizer
 
+![MA Visualizer](visulaizer.jpg)
+
 A full-screen audio visualizer for [Music Assistant](https://music-assistant.io/), running in the browser. Connects via [Sendspin](https://sendspin.io/) for real-time audio analysis and displays reactive visuals synchronized to your playing music.
 
 ## Features
